@@ -4,10 +4,13 @@
     
 }
 header{
-    background-color: #049DBF;
-    justify-content: flex-end;
+    border-bottom: 2px solid;
+    justify-content: space-between;
     display: flex;
     min-height: 50px;
+}
+.insta{
+    margin-left: 17%;
 }
 .foto_perfil{
     height: 200px;
